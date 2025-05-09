@@ -1,8 +1,0 @@
-[snowflake]
-account = "LFXXFDC-RTB6557"
-user = "KAIROS153"
-password = "!Iam0winner67*"
-role = "ACCOUNTADMIN"
-warehouse = "COMPUTE_WH"
-database = "SMOOTHIES"
-schema = "public"
