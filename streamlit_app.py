@@ -15,7 +15,7 @@ st.write("The nmae on your Smoothie will be: ", name_on_order)
 
 # Snowflake connection configuration
 connection_parameters = {
-     "account": "LFXXFDC-RTB6557.us-east-1",
+    "account": "LFXXFDC-RTB65576",
     "user": "KAIROS153",
     "password": "!Iam0winner67*",
     "role": "ACCOUNTADMIN",
